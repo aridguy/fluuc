@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&family=Urbanist:wght@700;900&display=swap');
+.brands{
+    color: #44A806;
+}
+
+.headings{
+    font-family: Urbanist;
+    color: rgb(0, 0, 0);
+}
+
+.ex-txt{
+    font-size: 15px;
+}
+
+.mockup{
+    width: 100%;
+    margin-bottom: 10em;
+}
+
+.botin2{
+    background-color: #44A806;
+    outline: none;
+    border: none;
+    color: white;
+    width: 20em;
+    height: 4em;
+}

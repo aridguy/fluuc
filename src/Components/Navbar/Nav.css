@@ -1,0 +1,20 @@
+.navbar {
+    box-shadow: none !important
+}
+
+.botin {
+    width: 109.98px;
+    height: 39.6px;
+    left: 1059.31px;
+    top: 78.98px;
+    border: 1px solid #11CF30;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+/* .right {
+    position: relative;
+    left: 40vh;
+    font-size: 32px;
+    color: #11cf30;
+} */
